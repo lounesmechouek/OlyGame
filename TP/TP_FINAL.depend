@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1523982457 source:c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1523982457 c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1523982461 source:c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523982464 c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.h
+
+1523982457 c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.h
+	<_mingw.h>
+
+1523982464 source:c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP_BIBLIO.h"
+
+1523982457 source:c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1523982457 c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1523982461 source:c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523982464 c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.h
+
+1523982457 c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.h
+	<_mingw.h>
+
+1523982464 source:c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP_BIBLIO.h"
+

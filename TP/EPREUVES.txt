@@ -1,0 +1,79 @@
+100 metres
+200 metres
+400 metres
+800 metres
+1500 metres
+5000 metres
+10.000 metres
+110 metres haies
+400 metres haies
+3000 metres steeple
+20 Km marche
+50 Km marche
+Saut en longueur
+Triple saut
+Saut en hauteur
+Saut a la perche
+Lancer du poids
+Lancer du disque
+Lancer du marteau
+Lancer du javelot
+Decathlon
+Aviron
+Badminton
+Basketball
+Biathlon
+BMX
+Bobsleigh
+Boxe
+Canoe
+Curling
+Cyclisme
+Equitation
+Escalade
+Escrime
+Golf
+Gymnastique
+Halterophilie
+Handball
+Hockey
+Judo
+Karate
+Luge
+Lutte Greco-Romaine
+Lutte libre
+Marathon
+50 metres nage libre
+100 metres nage libre
+200 metres nage libre
+400 metres nage libre
+800 metres nage libre
+1500 metres nage libre
+100 metres brasse
+200 metres brasse
+100 metres dos
+200 metres dos
+100 metres papillon
+200 metres papillon
+200 metres quatre nages
+10 km en eau libre
+Natation synchronisee
+Patinage
+Pentathlon
+Ski acrobatique
+Ski alpin
+Ski de fond
+Slalom
+Snowboard
+Softball
+Taekwendo
+Tennis
+Tir
+Tir a l'arc
+Trampoline
+Triathlon
+Voile
+Volleyball
+VTT
+Water-Polo
+END
